@@ -10,11 +10,16 @@
     "test": "jest"
   },
   "dependencies": {
+    "deox": "^3.3.1",
+    "immer": "^9.0.19",
     "react": "18.2.0",
     "react-native": "0.71.4",
     "react-native-gesture-handler": "^2.9.0",
     "react-native-reanimated": "^3.0.2",
-    "react-native-vector-icons": "^9.2.0"
+    "react-native-vector-icons": "^9.2.0",
+    "react-redux": "^8.0.5",
+    "redux": "^4.2.1",
+    "redux-saga": "^1.2.3"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
